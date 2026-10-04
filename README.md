@@ -12,5 +12,5 @@ The content can be created by script
        ('Butter', 62.0),
        ('Milk', 32.0);
 ```
-it ensures that five products are inserted with the original prices..
+it ensures that five products are inserted with the original prices...
 Connection string to DB should be provided in appsettings.json in ConnectionStrings section, under Default name.
